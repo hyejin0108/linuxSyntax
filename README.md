@@ -1,1 +1,1 @@
-#linux syntax
+# linux syntax
